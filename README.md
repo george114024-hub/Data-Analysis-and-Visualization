@@ -20,5 +20,6 @@
 
     b. Matplotlib： 用於繪製圖表和數據視覺化。
 ## 成果展示 (Demo)
-台幣兌美金換繪圖
+1. 台幣兌美金換繪圖
+
 <img width="622" height="388" alt="螢幕擷取畫面 2025-09-21 212603" src="https://github.com/user-attachments/assets/51c3df66-42bb-4249-8754-7f32804188f4" />
